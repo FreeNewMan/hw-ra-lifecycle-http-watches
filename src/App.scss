@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+input, label {
+  display: block;
+  text-align: center;
+}
+
+input {
+  border-radius: 5px;
+  height: 20px;
+  border: 1px solid black;
+}
+
+ul {
+  list-style-type: none;
+
+  li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+}
+
+.fielditem {
+  width: 140px;
+  text-align: center;
+  padding: 2px;
+}
+
+.fieldaction {
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
