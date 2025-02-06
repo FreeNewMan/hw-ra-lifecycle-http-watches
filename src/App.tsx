@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss'
-import { Watches } from './components/Watches/Watches.tsx'
+import  {Watches}  from './components/Watches/Watches.tsx'
 
 
 function App() {
